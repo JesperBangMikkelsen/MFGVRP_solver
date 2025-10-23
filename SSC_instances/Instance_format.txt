@@ -13,7 +13,8 @@ The instances are formatted as follows:
 -	Line 9: recharging rate
 -	Line 10: vehicle capacity
 -	Line 11: demand at node 0,…,n
--	Line 12: service time at node 0,…, n
+-	Line 12: service time at node 0,…,n
 -	Line 13: coordinates of depot 0
 -	Line 14 to 14+n: coordinates of customers 1,…,n
+
 -	Line 15+n to 15+n+r: coordinates of recharging stations 1,…,r
