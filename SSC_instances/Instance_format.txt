@@ -1,0 +1,19 @@
+## DESCRIPTION OF PROBLEM INSTANCES ##
+In all computational tests, Euclidean distances rounded up to the next integer value are used.
+
+The instances are formatted as follows:
+-	Line 1: number of customers (n)
+-	Line 2: number of charging stations (r)
+-	Line 3: number of electric vehicles in fleet
+-	Line 4: number of conventional vehicles in fleet
+-	Line 5: dummy entry
+-	Line 6: maximum route duration
+-	Line 7: battery capacity
+-	Line 8: energy consumption per distance unit travelled
+-	Line 9: recharging rate
+-	Line 10: vehicle capacity
+-	Line 11: demand at node 0,…,n
+-	Line 12: service time at node 0,…, n
+-	Line 13: coordinates of depot 0
+-	Line 14 to 14+n: coordinates of customers 1,…,n
+-	Line 15+n to 15+n+r: coordinates of recharging stations 1,…,r
